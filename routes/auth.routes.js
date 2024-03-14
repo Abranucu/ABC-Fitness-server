@@ -95,7 +95,7 @@ router.post("/login", async (req, res, next) => {
 
   // Comprobar que todos los campos obligatorios están llenos
   if (!email || !password) {
-    res
+    return res
       .status(400)
       .json({ message: "Por favor, complete todos los campos obligatorios." });
   }
@@ -104,11 +104,10 @@ router.post("/login", async (req, res, next) => {
     // Validar que el usuario existe en la DB
     const foundUser = await User.findOne({ email: email });
     if (foundUser === null) {
-      res.status(400).json({
+      return res.status(400).json({
         message:
           "No se encontró ningún usuario registrado con este correo electrónico.",
       });
-      return;
     }
 
     // Comprobar que la contraseña es correcta
@@ -117,10 +116,9 @@ router.post("/login", async (req, res, next) => {
       foundUser.password
     );
     if (isPasswordCorrect === false) {
-      res
+      return res
         .status(400)
         .json({ message: "La contraseña proporcionada no es correcta." });
-      return;
     }
 
     // Generamos el Token y lo enviamos al cliente
