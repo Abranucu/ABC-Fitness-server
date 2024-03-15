@@ -13,13 +13,21 @@ const myExerciseSchema = new Schema({
     type: Number,
     required: [true, "Numero de Kg requerido."],
   },
+  rest: {
+    type: Number,
+    required: [true, "Numero de segundos de descanso entre series requerido."],
+  },
   user: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "User",
   },
-  exercises: {
+  exercise: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "exercise",
+    ref: "Exercise",
+  },
+  routine: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Routine",
   },
 });
 

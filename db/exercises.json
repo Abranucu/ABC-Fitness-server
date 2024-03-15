@@ -2,7 +2,7 @@
     {
         "name": "Elevación de rodillas sentado (Pull-In)",
         "initialPosition": "Siéntate en una máquina para elevación de rodillas con la espalda bien apoyada y las manos en los agarres laterales.",
-        "execution": "Levanta las rodillas hacia el pecho flexionando las caderas, mantén una breve pausa en la posición contraída y luego baja las piernas controladamente.",
+        "execution": "Levanta las rodillas hacia el Pectorales flexionando las caderas, mantén una breve pausa en la posición contraída y luego baja las piernas controladamente.",
         "advice": "Mantén la parte superior del cuerpo inmóvil y evita balancear el torso durante el movimiento.",
         "involvedMuscles": [
             "Abdominales",
@@ -66,7 +66,7 @@
     {
         "name": "Encogimientos invertidos",
         "initialPosition": "Acuéstate boca arriba en el suelo con los brazos extendidos a los lados del cuerpo y las piernas extendidas hacia arriba formando un ángulo de 90 grados con el torso.",
-        "execution": "Flexiona las caderas y las rodillas, acercando las rodillas al pecho mientras levantas la pelvis del suelo, luego regresa a la posición inicial controladamente.",
+        "execution": "Flexiona las caderas y las rodillas, acercando las rodillas al Pectorales mientras levantas la pelvis del suelo, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén el cuello relajado y evita jalar la cabeza hacia adelante durante el movimiento.",
         "involvedMuscles": [
             "Abdominales"
@@ -77,8 +77,8 @@
     },
     {
         "name": "Encogimientos invertidos en banco inclinado",
-        "initialPosition": "Siéntate en un banco inclinado con los pies sujetos debajo de los rodillos y las manos cruzadas sobre el pecho o detrás de la cabeza.",
-        "execution": "Flexiona las caderas y las rodillas, acercando las rodillas al pecho mientras levantas la parte superior del cuerpo, luego regresa a la posición inicial controladamente.",
+        "initialPosition": "Siéntate en un banco inclinado con los pies sujetos debajo de los rodillos y las manos cruzadas sobre el Pectorales o detrás de la cabeza.",
+        "execution": "Flexiona las caderas y las rodillas, acercando las rodillas al Pectorales mientras levantas la parte superior del cuerpo, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén la espalda recta y evita jalar el cuello hacia adelante durante el movimiento.",
         "involvedMuscles": [
             "Abdominales"
@@ -174,7 +174,7 @@
     },
     {
         "name": "Rodar con la barra (Rodamiento abdominal)",
-        "initialPosition": "Siéntate en el suelo con las piernas extendidas y sostén una barra sobre el pecho con los brazos rectos.",
+        "initialPosition": "Siéntate en el suelo con las piernas extendidas y sostén una barra sobre el Pectorales con los brazos rectos.",
         "execution": "Flexiona los abdominales y lleva la barra hacia adelante, rodando sobre la espalda hasta llegar a una posición casi horizontal, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén el abdomen contraído y evita arquear la espalda durante el movimiento.",
         "involvedMuscles": [
@@ -190,7 +190,7 @@
         "execution": "Flexiona las rodillas y lleva el codo derecho hacia la rodilla izquierda mientras extiendes la pierna derecha hacia afuera, luego alterna con el codo izquierdo y la rodilla derecha.",
         "advice": "Mantén el cuello relajado y evita jalar la cabeza hacia adelante durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -202,7 +202,7 @@
         "execution": "Gira el torso y lleva la cuerda o barra hacia abajo y hacia el lado opuesto de la cadera, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén la espalda recta y evita girar excesivamente el torso durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -214,7 +214,7 @@
         "execution": "Levanta las piernas hacia los lados, manteniendo el torso quieto, luego baja controladamente.",
         "advice": "Mantén el cuerpo en línea recta y evita balancear las piernas para obtener impulso.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -226,7 +226,7 @@
         "execution": "Levanta las piernas y el torso simultáneamente, llevando las manos hacia los pies, luego baja controladamente.",
         "advice": "Mantén el abdomen contraído y evita arquear la espalda durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -238,7 +238,7 @@
         "execution": "Flexiona el torso hacia el lado opuesto de la mano con la mancuerna, manteniendo el brazo extendido, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén el torso erguido y evita inclinar hacia adelante o hacia atrás durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -250,7 +250,7 @@
         "execution": "Eleva las piernas hacia el techo mientras llevas el codo hacia el pie correspondiente, manteniendo el torso en posición lateral, luego baja controladamente.",
         "advice": "Mantén el cuello relajado y evita jalar la cabeza hacia adelante durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -262,7 +262,7 @@
         "execution": "Eleva el torso y lleva el codo derecho hacia la rodilla izquierda mientras contraes los oblicuos, luego alterna con el codo izquierdo y la rodilla derecha.",
         "advice": "Mantén el cuello relajado y evita jalar la cabeza hacia adelante durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -274,7 +274,7 @@
         "execution": "Eleva el torso y lleva el codo derecho hacia la rodilla izquierda mientras contraes los oblicuos, luego alterna con el codo izquierdo y la rodilla derecha.",
         "advice": "Mantén el cuello relajado y evita jalar la cabeza hacia adelante durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -286,7 +286,7 @@
         "execution": "Jala la cuerda o barra hacia abajo y hacia el lado opuesto de la cadera, llevando el codo hacia la rodilla correspondiente, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén el cuerpo estable y evita girar excesivamente el torso durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -298,7 +298,7 @@
         "execution": "Inclina el torso hacia el lado opuesto de la mano con la polea, manteniendo el brazo extendido, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén el torso erguido y evita inclinar hacia adelante o hacia atrás durante el movimiento.",
         "involvedMuscles": [
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -332,12 +332,12 @@
     },
     {
         "name": "Press Pallof",
-        "initialPosition": "Colócate de pie o arrodillado frente a un punto de anclaje con una banda elástica o polea a la altura del pecho.",
-        "execution": "Sujeta el extremo de la banda o polea con ambas manos frente al pecho, aleja los brazos del cuerpo hasta que estén completamente extendidos, luego vuelve a la posición inicial controladamente.",
+        "initialPosition": "Colócate de pie o arrodillado frente a un punto de anclaje con una banda elástica o polea a la altura del Pectorales.",
+        "execution": "Sujeta el extremo de la banda o polea con ambas manos frente al Pectorales, aleja los brazos del cuerpo hasta que estén completamente extendidos, luego vuelve a la posición inicial controladamente.",
         "advice": "Mantén el torso estable y evita girar o inclinar el cuerpo durante el movimiento.",
         "involvedMuscles": [
             "Abdominales",
-            "Oblicuos"
+            "Abdominales oblicuos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -346,7 +346,7 @@
     {
         "name": "Aperturas con mancuerna en banco inclinado",
         "initialPosition": "Siéntate en un banco inclinado con una mancuerna en cada mano, extendiendo los brazos hacia arriba.",
-        "execution": "Baja los brazos hacia los lados hasta que sientas un estiramiento en el pecho, luego vuelve a la posición inicial.",
+        "execution": "Baja los brazos hacia los lados hasta que sientas un estiramiento en el Pectorales, luego vuelve a la posición inicial.",
         "advice": "Mantén los codos ligeramente flexionados y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales"
@@ -358,7 +358,7 @@
     {
         "name": "Aperturas en poleas en banco inclinado",
         "initialPosition": "Siéntate en un banco inclinado frente a las poleas, con un agarre en cada mano.",
-        "execution": "Tira de las poleas hacia el centro del pecho, manteniendo los brazos ligeramente flexionados, luego regresa a la posición inicial controladamente.",
+        "execution": "Tira de las poleas hacia el centro del Pectorales, manteniendo los brazos ligeramente flexionados, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén los hombros hacia abajo y la espalda recta durante el movimiento.",
         "involvedMuscles": [
             "Pectorales"
@@ -369,8 +369,8 @@
     },
     {
         "name": "Press con barra en banco inclinado",
-        "initialPosition": "Acuéstate en un banco inclinado con una barra sobre el pecho, sujetándola con un agarre ligeramente más ancho que los hombros.",
-        "execution": "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, luego baja la barra hacia el pecho controladamente.",
+        "initialPosition": "Acuéstate en un banco inclinado con una barra sobre el Pectorales, sujetándola con un agarre ligeramente más ancho que los hombros.",
+        "execution": "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, luego baja la barra hacia el Pectorales controladamente.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquear las articulaciones al final del movimiento.",
         "involvedMuscles": [
             "Pectorales",
@@ -384,7 +384,7 @@
     {
         "name": "Press con mancuernas en banco inclinado",
         "initialPosition": "Siéntate en un banco inclinado con una mancuerna en cada mano, extendiendo los brazos hacia arriba.",
-        "execution": "Empuja las mancuernas hacia arriba hasta que los brazos estén completamente extendidos, luego baja las mancuernas hacia los lados del pecho controladamente.",
+        "execution": "Empuja las mancuernas hacia arriba hasta que los brazos estén completamente extendidos, luego baja las mancuernas hacia los lados del Pectorales controladamente.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquear las articulaciones al final del movimiento.",
         "involvedMuscles": [
             "Pectorales",
@@ -397,8 +397,8 @@
     },
     {
         "name": "Press de banca al cuello",
-        "initialPosition": "Acuéstate en un banco plano con una barra sobre el pecho, sujetándola con un agarre ligeramente más ancho que los hombros.",
-        "execution": "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, manteniendo la barra sobre el cuello, luego baja la barra hacia el pecho controladamente.",
+        "initialPosition": "Acuéstate en un banco plano con una barra sobre el Pectorales, sujetándola con un agarre ligeramente más ancho que los hombros.",
+        "execution": "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, manteniendo la barra sobre el cuello, luego baja la barra hacia el Pectorales controladamente.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquear las articulaciones al final del movimiento.",
         "involvedMuscles": [
             "Pectorales",
@@ -412,7 +412,7 @@
     {
         "name": "Press inclinado en máquina de discos",
         "initialPosition": "Siéntate en la máquina de discos con el respaldo inclinado hacia atrás y agarra las asas con un agarre pronado.",
-        "execution": "Empuja los discos hacia arriba hasta que los brazos estén completamente extendidos, luego baja los discos hacia los lados del pecho controladamente.",
+        "execution": "Empuja los discos hacia arriba hasta que los brazos estén completamente extendidos, luego baja los discos hacia los lados del Pectorales controladamente.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquear las articulaciones al final del movimiento.",
         "involvedMuscles": [
             "Pectorales",
@@ -425,8 +425,8 @@
     },
     {
         "name": "Press inclinado en Multipower",
-        "initialPosition": "Acuéstate en el banco inclinado del Multipower con una barra sobre el pecho, sujetándola con un agarre ligeramente más ancho que los hombros.",
-        "execution": "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, luego baja la barra hacia el pecho controladamente.",
+        "initialPosition": "Acuéstate en el banco inclinado del Multipower con una barra sobre el Pectorales, sujetándola con un agarre ligeramente más ancho que los hombros.",
+        "execution": "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, luego baja la barra hacia el Pectorales controladamente.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquear las articulaciones al final del movimiento.",
         "involvedMuscles": [
             "Pectorales",
@@ -439,9 +439,9 @@
     },
     {
         "name": "Aperturas con mancuernas en banco plano",
-        "initialPosition": "Acuéstate en un banco plano con una mancuerna en cada mano, extendiendo los brazos sobre el pecho con un ligero flexión en los codos.",
+        "initialPosition": "Acuéstate en un banco plano con una mancuerna en cada mano, extendiendo los brazos sobre el Pectorales con un ligero flexión en los codos.",
         "execution": "Abre los brazos hacia los lados en un movimiento controlado, manteniendo un ligero flexión en los codos, luego vuelve a la posición inicial.",
-        "advice": "Mantén una contracción constante en los músculos del pecho durante todo el movimiento.",
+        "advice": "Mantén una contracción constante en los músculos del Pectorales durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
             "Deltoides anterior"
@@ -452,9 +452,9 @@
     },
     {
         "name": "Aperturas con polea en banco plano",
-        "initialPosition": "Siéntate en un banco plano frente a una polea alta con una polea en cada mano, con los brazos extendidos frente al pecho.",
+        "initialPosition": "Siéntate en un banco plano frente a una polea alta con una polea en cada mano, con los brazos extendidos frente al Pectorales.",
         "execution": "Abre los brazos hacia los lados en un movimiento controlado, manteniendo un ligero flexión en los codos, luego vuelve a la posición inicial.",
-        "advice": "Mantén una contracción constante en los músculos del pecho durante todo el movimiento.",
+        "advice": "Mantén una contracción constante en los músculos del Pectorales durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
             "Deltoides anterior"
@@ -464,10 +464,10 @@
         "video": "url del video"
     },
     {
-        "name": "Aperturas de pecho en máquina",
-        "initialPosition": "Siéntate en la máquina de aperturas de pecho con la espalda apoyada en el respaldo y agarra las asas con un agarre neutro.",
-        "execution": "Junta las manos frente al pecho en un movimiento controlado, luego abre los brazos hacia los lados hasta que sientas un estiramiento en el pecho.",
-        "advice": "Mantén una contracción constante en los músculos del pecho durante todo el movimiento.",
+        "name": "Aperturas de Pectorales en máquina",
+        "initialPosition": "Siéntate en la máquina de aperturas de Pectorales con la espalda apoyada en el respaldo y agarra las asas con un agarre neutro.",
+        "execution": "Junta las manos frente al Pectorales en un movimiento controlado, luego abre los brazos hacia los lados hasta que sientas un estiramiento en el Pectorales.",
+        "advice": "Mantén una contracción constante en los músculos del Pectorales durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
             "Deltoides anterior"
@@ -479,8 +479,8 @@
     {
         "name": "Aperturas en Peck-deck",
         "initialPosition": "Siéntate en la máquina de Peck-deck con la espalda apoyada en el respaldo y agarra las asas con un agarre neutro.",
-        "execution": "Junta las manos frente al pecho en un movimiento controlado, luego abre los brazos hacia los lados hasta que sientas un estiramiento en el pecho.",
-        "advice": "Mantén una contracción constante en los músculos del pecho durante todo el movimiento.",
+        "execution": "Junta las manos frente al Pectorales en un movimiento controlado, luego abre los brazos hacia los lados hasta que sientas un estiramiento en el Pectorales.",
+        "advice": "Mantén una contracción constante en los músculos del Pectorales durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
             "Deltoides anterior"
@@ -492,8 +492,8 @@
     {
         "name": "Cruces en polea alta",
         "initialPosition": "Coloca las poleas altas en la máquina de cable y agarra las asas con un agarre pronado, con los brazos extendidos hacia arriba.",
-        "execution": "Cruza los brazos frente al pecho en un movimiento controlado, luego vuelve a la posición inicial.",
-        "advice": "Mantén una contracción constante en los músculos del pecho durante todo el movimiento.",
+        "execution": "Cruza los brazos frente al Pectorales en un movimiento controlado, luego vuelve a la posición inicial.",
+        "advice": "Mantén una contracción constante en los músculos del Pectorales durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
             "Deltoides anterior"
@@ -506,7 +506,7 @@
         "name": "Cruces en polea baja",
         "initialPosition": "Colócate frente a una polea baja con una manija en cada mano y da un paso hacia atrás para crear tensión en el cable.",
         "execution": "Cruza las manos frente al cuerpo en un movimiento controlado, manteniendo los brazos ligeramente flexionados, luego regresa a la posición inicial.",
-        "advice": "Mantén una contracción constante en los músculos del pecho durante todo el movimiento.",
+        "advice": "Mantén una contracción constante en los músculos del Pectorales durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
             "Deltoides anterior"
@@ -518,7 +518,7 @@
     {
         "name": "Flexiones",
         "initialPosition": "Colócate en posición de plancha con las manos apoyadas en el suelo a la altura de los hombros y los pies juntos detrás de ti.",
-        "execution": "Baja el cuerpo hacia el suelo flexionando los codos hasta que el pecho casi toque el suelo, luego empuja hacia arriba para volver a la posición inicial.",
+        "execution": "Baja el cuerpo hacia el suelo flexionando los codos hasta que el Pectorales casi toque el suelo, luego empuja hacia arriba para volver a la posición inicial.",
         "advice": "Mantén el cuerpo en línea recta desde la cabeza hasta los talones durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales",
@@ -530,7 +530,7 @@
         "video": "url del video"
     },
     {
-        "name": "Fondos en paralelas para pecho",
+        "name": "Fondos en paralelas para Pectorales",
         "initialPosition": "Colócate entre dos barras paralelas con las manos agarradas a las barras y los brazos extendidos.",
         "execution": "Baja el cuerpo hacia abajo doblando los codos hasta que los hombros estén por debajo de los codos, luego empuja hacia arriba para volver a la posición inicial.",
         "advice": "Mantén el cuerpo en posición vertical y evita balancear el cuerpo durante el ejercicio.",
@@ -546,7 +546,7 @@
     {
         "name": "Press de banca a una mano en multipower",
         "initialPosition": "Acuéstate en el banco de prensa con una sola mano sosteniendo la barra y el otro brazo extendido a un lado para mantener el equilibrio.",
-        "execution": "Baja la barra hacia el pecho flexionando el codo, luego empuja hacia arriba para volver a la posición inicial.",
+        "execution": "Baja la barra hacia el Pectorales flexionando el codo, luego empuja hacia arriba para volver a la posición inicial.",
         "advice": "Mantén el cuerpo estable y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -560,7 +560,7 @@
     {
         "name": "Press de banca con barra",
         "initialPosition": "Acuéstate en un banco plano con los pies apoyados en el suelo y agarra la barra con las manos un poco más anchas que el ancho de los hombros.",
-        "execution": "Baja la barra hacia el pecho flexionando los codos, luego empuja hacia arriba para volver a la posición inicial.",
+        "execution": "Baja la barra hacia el Pectorales flexionando los codos, luego empuja hacia arriba para volver a la posición inicial.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquearlos en la posición superior.",
         "involvedMuscles": [
             "Pectorales",
@@ -572,8 +572,8 @@
         "video": "url del video"
     },
     {
-        "name": "Press de pecho en máquina horizontal",
-        "initialPosition": "Ajusta el asiento y la almohadilla de la máquina para que estén alineados con tu pecho. Siéntate y agarra las asas con las manos.",
+        "name": "Press de Pectorales en máquina horizontal",
+        "initialPosition": "Ajusta el asiento y la almohadilla de la máquina para que estén alineados con tu Pectorales. Siéntate y agarra las asas con las manos.",
         "execution": "Empuja las asas hacia adelante hasta que los brazos estén casi completamente extendidos, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén los codos ligeramente flexionados durante todo el movimiento para evitar la hiperextensión.",
         "involvedMuscles": [
@@ -586,8 +586,8 @@
         "video": "url del video"
     },
     {
-        "name": "Press de pecho en máquina vertical",
-        "initialPosition": "Ajusta el asiento de la máquina para que esté alineado con tu pecho. Siéntate y agarra las asas con las manos.",
+        "name": "Press de Pectorales en máquina vertical",
+        "initialPosition": "Ajusta el asiento de la máquina para que esté alineado con tu Pectorales. Siéntate y agarra las asas con las manos.",
         "execution": "Empuja las asas hacia arriba hasta que los brazos estén casi completamente extendidos, luego regresa a la posición inicial controladamente.",
         "advice": "Mantén los codos ligeramente flexionados durante todo el movimiento para evitar la hiperextensión.",
         "involvedMuscles": [
@@ -600,9 +600,9 @@
         "video": "url del video"
     },
     {
-        "name": "Press de pecho en multipower",
+        "name": "Press de Pectorales en multipower",
         "initialPosition": "Acuéstate en el banco de prensa del multipower con los pies apoyados en el suelo y agarra la barra con las manos un poco más anchas que el ancho de los hombros.",
-        "execution": "Baja la barra hacia el pecho flexionando los codos, luego empuja hacia arriba para volver a la posición inicial.",
+        "execution": "Baja la barra hacia el Pectorales flexionando los codos, luego empuja hacia arriba para volver a la posición inicial.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquearlos en la posición superior.",
         "involvedMuscles": [
             "Pectorales",
@@ -616,7 +616,7 @@
     {
         "name": "Press en banco plano con mancuernas",
         "initialPosition": "Acuéstate en un banco plano con los pies apoyados en el suelo y agarra una mancuerna en cada mano a la altura de los hombros.",
-        "execution": "Baja las mancuernas hacia el pecho flexionando los codos, luego empuja hacia arriba para volver a la posición inicial.",
+        "execution": "Baja las mancuernas hacia el Pectorales flexionando los codos, luego empuja hacia arriba para volver a la posición inicial.",
         "advice": "Mantén los codos ligeramente flexionados y evita bloquearlos en la posición superior.",
         "involvedMuscles": [
             "Pectorales",
@@ -643,7 +643,7 @@
     },
     {
         "name": "Pullover con mancuerna",
-        "initialPosition": "Acuéstate en un banco plano con los pies apoyados en el suelo y sostén una mancuerna con ambas manos sobre el pecho.",
+        "initialPosition": "Acuéstate en un banco plano con los pies apoyados en el suelo y sostén una mancuerna con ambas manos sobre el Pectorales.",
         "execution": "Extiende los brazos hacia atrás mientras bajas la mancuerna por encima de la cabeza, manteniendo los codos ligeramente flexionados, luego regresa a la posición inicial.",
         "advice": "Mantén los brazos ligeramente flexionados y evita bloquearlos en la posición superior.",
         "involvedMuscles": [
@@ -657,7 +657,7 @@
     },
     {
         "name": "Pullover en banco declinado",
-        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados y sostén una mancuerna con ambas manos sobre el pecho.",
+        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados y sostén una mancuerna con ambas manos sobre el Pectorales.",
         "execution": "Extiende los brazos hacia atrás mientras bajas la mancuerna por encima de la cabeza, manteniendo los codos ligeramente flexionados, luego regresa a la posición inicial.",
         "advice": "Mantén los brazos ligeramente flexionados y evita bloquearlos en la posición superior.",
         "involvedMuscles": [
@@ -671,8 +671,8 @@
     },
     {
         "name": "Aperturas con mancuernas en banco declinado",
-        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados en el suelo y sostén una mancuerna en cada mano sobre el pecho.",
-        "execution": "Con los codos ligeramente flexionados, abre los brazos hacia los lados hasta que sientas un estiramiento en el pecho, luego regresa a la posición inicial.",
+        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados en el suelo y sostén una mancuerna en cada mano sobre el Pectorales.",
+        "execution": "Con los codos ligeramente flexionados, abre los brazos hacia los lados hasta que sientas un estiramiento en el Pectorales, luego regresa a la posición inicial.",
         "advice": "Mantén los codos ligeramente flexionados y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -698,8 +698,8 @@
     },
     {
         "name": "Press con barra en banco declinado",
-        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados en el suelo y sostén una barra sobre el pecho con las manos separadas a la anchura de los hombros.",
-        "execution": "Empuja la barra hacia arriba extendiendo los brazos, luego baja la barra controladamente hasta el pecho.",
+        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados en el suelo y sostén una barra sobre el Pectorales con las manos separadas a la anchura de los hombros.",
+        "execution": "Empuja la barra hacia arriba extendiendo los brazos, luego baja la barra controladamente hasta el Pectorales.",
         "advice": "Mantén los codos ligeramente flexionados y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -712,8 +712,8 @@
     },
     {
         "name": "Press con mancuernas en banco declinado",
-        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados en el suelo y sostén una mancuerna en cada mano sobre el pecho.",
-        "execution": "Empuja las mancuernas hacia arriba extendiendo los brazos, luego baja las mancuernas controladamente hasta el pecho.",
+        "initialPosition": "Acuéstate en un banco declinado con los pies firmemente apoyados en el suelo y sostén una mancuerna en cada mano sobre el Pectorales.",
+        "execution": "Empuja las mancuernas hacia arriba extendiendo los brazos, luego baja las mancuernas controladamente hasta el Pectorales.",
         "advice": "Mantén los codos ligeramente flexionados y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -727,7 +727,7 @@
     {
         "name": "Press declinado en Multipower",
         "initialPosition": "Ajusta el banco del Multipower en la posición declinada y siéntate en él con la barra en la posición de rack.",
-        "execution": "Empuja la barra hacia arriba extendiendo los brazos, luego baja la barra controladamente hasta el pecho.",
+        "execution": "Empuja la barra hacia arriba extendiendo los brazos, luego baja la barra controladamente hasta el Pectorales.",
         "advice": "Mantén los codos ligeramente flexionados y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -825,7 +825,7 @@
     {
         "name": "Jalón dorsal a una mano",
         "initialPosition": "Siéntate en una máquina de jalón dorsal con una manija en una mano y la palma de la mano mirando hacia adelante.",
-        "execution": "Tira de la manija hacia abajo, llevando el codo hacia el costado y bajando la manija hacia la parte superior del pecho. Luego, regresa la manija a la posición inicial de manera controlada.",
+        "execution": "Tira de la manija hacia abajo, llevando el codo hacia el costado y bajando la manija hacia la parte superior del Pectorales. Luego, regresa la manija a la posición inicial de manera controlada.",
         "advice": "Mantén el torso erguido y los hombros hacia abajo durante todo el movimiento.",
         "involvedMuscles": [
             "Dorsal ancho",
@@ -837,7 +837,7 @@
         "video": "url del video"
     },
     {
-        "name": "Jalones agarre cerrado (o jalón al pecho)",
+        "name": "Jalones agarre cerrado (o jalón al Pectorales)",
         "initialPosition": "Siéntate en una máquina de poleas con una barra en la parte superior y agarra la barra con las manos separadas a una distancia menor que el ancho de los hombros.",
         "execution": "Tira de la barra hacia abajo, llevando los codos hacia abajo y hacia atrás mientras contraes los músculos de la espalda. Luego, regresa la barra a la posición inicial de manera controlada.",
         "advice": "Mantén el torso erguido y los hombros hacia abajo durante todo el movimiento.",
@@ -1160,7 +1160,7 @@
     },
     {
         "name": "Pullover en banco declinado",
-        "initialPosition": "Acuéstate en un banco declinado con una mancuerna sobre el pecho y los brazos extendidos.",
+        "initialPosition": "Acuéstate en un banco declinado con una mancuerna sobre el Pectorales y los brazos extendidos.",
         "execution": "Baja la mancuerna detrás de la cabeza manteniendo los brazos extendidos, luego vuelve a la posición inicial.",
         "advice": "Mantén la espalda apoyada en el banco y los codos ligeramente flexionados.",
         "involvedMuscles": [
@@ -1460,7 +1460,7 @@
     },
     {
         "name": "Extensión tumbado con barra Z",
-        "initialPosition": "Túmbate en un banco plano con los pies apoyados en el suelo. Sujeta una barra Z con agarre estrecho y los brazos extendidos sobre el pecho.",
+        "initialPosition": "Túmbate en un banco plano con los pies apoyados en el suelo. Sujeta una barra Z con agarre estrecho y los brazos extendidos sobre el Pectorales.",
         "execution": "Flexiona los codos y baja la barra hacia la frente, manteniendo los codos estables, luego extiende los brazos para volver a la posición inicial.",
         "advice": "Mantén los codos cerca de la cabeza y los hombros hacia abajo durante todo el movimiento.",
         "involvedMuscles": [
@@ -1473,7 +1473,7 @@
     {
         "name": "Press de banca con agarre cerrado",
         "initialPosition": "Acuéstate en un banco plano con los pies apoyados en el suelo. Sujeta la barra con las manos a una distancia más estrecha que el ancho de los hombros.",
-        "execution": "Desciende la barra hacia el pecho, manteniendo los codos cerca del cuerpo, luego extiende los brazos para volver a la posición inicial.",
+        "execution": "Desciende la barra hacia el Pectorales, manteniendo los codos cerca del cuerpo, luego extiende los brazos para volver a la posición inicial.",
         "advice": "Mantén los codos estables y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -1485,7 +1485,7 @@
     },
     {
         "name": "Extensiones de tríceps con mancuerna tumbado (Press Francés mancuerna)",
-        "initialPosition": "Túmbate en un banco plano con los pies apoyados en el suelo. Sujeta una mancuerna con ambas manos sobre el pecho.",
+        "initialPosition": "Túmbate en un banco plano con los pies apoyados en el suelo. Sujeta una mancuerna con ambas manos sobre el Pectorales.",
         "execution": "Flexiona los codos y baja la mancuerna hacia la frente, manteniendo los codos estables, luego extiende los brazos para volver a la posición inicial.",
         "advice": "Mantén los codos estables y controla el movimiento en todo momento.",
         "involvedMuscles": [
@@ -1497,7 +1497,7 @@
     },
     {
         "name": "Extensiones de tríceps tumbado con barra Z (Press Francés)",
-        "initialPosition": "Túmbate en un banco plano con los pies apoyados en el suelo. Sujeta una barra Z con agarre estrecho sobre el pecho.",
+        "initialPosition": "Túmbate en un banco plano con los pies apoyados en el suelo. Sujeta una barra Z con agarre estrecho sobre el Pectorales.",
         "execution": "Flexiona los codos y baja la barra hacia la frente, manteniendo los codos estables, luego extiende los brazos para volver a la posición inicial.",
         "advice": "Mantén los codos estables y controla el movimiento en todo momento.",
         "involvedMuscles": [
@@ -1546,7 +1546,7 @@
     {
         "name": "Press de banca agarre cerrado",
         "initialPosition": "Acuéstate en un banco plano con los pies apoyados en el suelo. Sujeta la barra con las manos a una distancia más estrecha que el ancho de los hombros.",
-        "execution": "Desciende la barra hacia el pecho, manteniendo los codos cerca del cuerpo, luego extiende los brazos para volver a la posición inicial.",
+        "execution": "Desciende la barra hacia el Pectorales, manteniendo los codos cerca del cuerpo, luego extiende los brazos para volver a la posición inicial.",
         "advice": "Mantén los codos estables y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -1559,7 +1559,7 @@
     {
         "name": "Press de banca agarre cerrado en multipower",
         "initialPosition": "Acuéstate en un banco en una multipower con los pies apoyados en el suelo. Sujeta la barra con las manos a una distancia más estrecha que el ancho de los hombros.",
-        "execution": "Desciende la barra hacia el pecho, manteniendo los codos cerca del cuerpo, luego extiende los brazos para volver a la posición inicial.",
+        "execution": "Desciende la barra hacia el Pectorales, manteniendo los codos cerca del cuerpo, luego extiende los brazos para volver a la posición inicial.",
         "advice": "Mantén los codos estables y controla el movimiento en todo momento.",
         "involvedMuscles": [
             "Pectorales",
@@ -1685,7 +1685,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps",
             "Dorsal",
             "Glúteos",
@@ -1704,7 +1704,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1719,7 +1719,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps",
             "Dorsal",
             "Glúteos",
@@ -1738,7 +1738,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1753,7 +1753,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1768,7 +1768,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1783,7 +1783,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1798,7 +1798,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1813,7 +1813,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1828,7 +1828,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1843,7 +1843,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho",
+            "Pectorales",
             "Tríceps"
         ],
         "involvedMusclesImg": "url de la imagen",
@@ -1854,7 +1854,7 @@
         "name": "Sentadilla con barra por encima de la cabeza",
         "initialPosition": "Coloca la barra en la parte trasera de los hombros, con las manos separadas al ancho de los hombros y las palmas hacia adelante.",
         "execution": "Desciende lentamente doblando las rodillas hasta que los muslos estén paralelos al suelo, luego vuelve a la posición inicial empujando a través de los talones.",
-        "advice": "Mantén la espalda recta y el pecho hacia arriba durante todo el movimiento.",
+        "advice": "Mantén la espalda recta y el Pectorales hacia arriba durante todo el movimiento.",
         "involvedMuscles": [
             "Cuádriceps",
             "Isquiotibiales",
@@ -1874,7 +1874,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1888,7 +1888,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1902,7 +1902,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1916,7 +1916,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1930,7 +1930,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1944,7 +1944,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1958,7 +1958,7 @@
         "involvedMuscles": [
             "Deltoides anterior",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1970,9 +1970,9 @@
         "execution": "Levanta las mancuernas hacia los lados hasta la altura del hombro, manteniendo los codos ligeramente flexionados, luego baja las mancuernas controladamente hasta la posición inicial.",
         "advice": "Mantén el core contraído y los hombros hacia abajo durante todo el movimiento.",
         "involvedMuscles": [
-            "Deltoides medio",
+            "Deltoides lateral",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1984,9 +1984,9 @@
         "execution": "Levanta la empuñadura hacia el lado hasta la altura del hombro, manteniendo el brazo extendido, luego baja el peso controladamente hasta la posición inicial.",
         "advice": "Mantén el core contraído y los hombros hacia abajo durante todo el movimiento.",
         "involvedMuscles": [
-            "Deltoides medio",
+            "Deltoides lateral",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -1998,9 +1998,9 @@
         "execution": "Levanta las mancuernas hacia los lados hasta la altura del hombro, manteniendo los codos ligeramente flexionados, luego baja las mancuernas controladamente hasta la posición inicial.",
         "advice": "Mantén el core contraído y los hombros hacia abajo durante todo el movimiento.",
         "involvedMuscles": [
-            "Deltoides medio",
+            "Deltoides lateral",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -2012,9 +2012,9 @@
         "execution": "Levanta los brazos hacia los lados hasta la altura del hombro, manteniendo los codos ligeramente flexionados, luego baja los brazos controladamente hasta la posición inicial.",
         "advice": "Mantén el core contraído y los hombros hacia abajo durante todo el movimiento.",
         "involvedMuscles": [
-            "Deltoides medio",
+            "Deltoides lateral",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -2028,7 +2028,7 @@
         "involvedMuscles": [
             "Deltoides",
             "Trapecio",
-            "Pecho"
+            "Pectorales"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -2342,7 +2342,8 @@
         "execution": "Gira la barra hacia arriba y hacia abajo utilizando únicamente la muñeca.",
         "advice": "Controla el movimiento y evita balancear los antebrazos.",
         "involvedMuscles": [
-            "Flexores y extensores de la muñeca"
+            "Extensores de la muñeca",
+            "Flexores de la muñeca"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -2462,7 +2463,7 @@
     {
         "name": "Power Clean",
         "initialPosition": "De pie con los pies separados al ancho de los hombros y una barra en el suelo frente a ti.",
-        "execution": "Agarra la barra con un agarre ligeramente más ancho que los hombros, baja en cuclillas con la espalda recta y luego extiende las caderas y los hombros para levantar la barra hacia el pecho, flexionando los codos para atraparla.",
+        "execution": "Agarra la barra con un agarre ligeramente más ancho que los hombros, baja en cuclillas con la espalda recta y luego extiende las caderas y los hombros para levantar la barra hacia el Pectorales, flexionando los codos para atraparla.",
         "advice": "Mantén la barra cerca del cuerpo durante todo el movimiento y utiliza la fuerza explosiva para levantarla.",
         "involvedMuscles": [
             "Cuádriceps",
@@ -2818,7 +2819,7 @@
         "advice": "Mantén el torso recto y los glúteos contraídos durante todo el movimiento.",
         "involvedMuscles": [
             "Glúteos",
-            "Músculos Abductores"
+            "Abductores"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -2831,7 +2832,7 @@
         "advice": "Mantén el torso recto y los glúteos contraídos durante todo el movimiento.",
         "involvedMuscles": [
             "Glúteos",
-            "Músculos Aductores"
+            "Aductores"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",
@@ -3024,7 +3025,7 @@
         "name": "Sentadilla Zercher",
         "initialPosition": "De pie con los pies separados al ancho de los hombros y sosteniendo una barra en el hueco de los codos.",
         "execution": "Realiza una sentadilla descendiendo lentamente hasta que tus muslos estén paralelos al suelo, manteniendo la barra en su posición, luego regresa a la posición inicial.",
-        "advice": "Mantén la espalda recta y el pecho levantado durante todo el movimiento.",
+        "advice": "Mantén la espalda recta y el Pectorales levantado durante todo el movimiento.",
         "involvedMuscles": [
             "Cuádriceps",
             "Glúteos",
@@ -3199,7 +3200,7 @@
     {
         "name": "Cruces en polea con bandas elásticas",
         "initialPosition": "Colócate de pie frente a la polea con una banda elástica ajustada a la altura de los hombros en cada extremo.",
-        "execution": "Con los brazos extendidos, cruza las manos frente al pecho manteniendo los codos ligeramente flexionados. Luego, regresa a la posición inicial con control.",
+        "execution": "Con los brazos extendidos, cruza las manos frente al Pectorales manteniendo los codos ligeramente flexionados. Luego, regresa a la posición inicial con control.",
         "advice": "Mantén la espalda recta y los abdominales contraídos durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales"
@@ -3211,7 +3212,7 @@
     {
         "name": "Aperturas a una mano con bandas elásticas",
         "initialPosition": "De pie con una banda elástica sujeta con una mano a la altura del hombro.",
-        "execution": "Con el brazo extendido lateralmente, aleja la mano del cuerpo hasta sentir la tensión en el pecho. Luego, regresa a la posición inicial controlando el movimiento.",
+        "execution": "Con el brazo extendido lateralmente, aleja la mano del cuerpo hasta sentir la tensión en el Pectorales. Luego, regresa a la posición inicial controlando el movimiento.",
         "advice": "Mantén la espalda recta y los abdominales contraídos durante todo el movimiento.",
         "involvedMuscles": [
             "Pectorales"
@@ -3221,7 +3222,7 @@
         "video": "url del video"
     },
     {
-        "name": "Press de pecho con bandas elásticas",
+        "name": "Press de Pectorales con bandas elásticas",
         "initialPosition": "Acuéstate en el suelo con la banda elástica debajo de la espalda y cada extremo sostenido en las manos.",
         "execution": "Extiende los brazos hacia arriba, empujando la banda elástica hacia el techo, luego regresa lentamente a la posición inicial.",
         "advice": "Mantén la espalda apoyada en el suelo y los abdominales contraídos durante todo el movimiento.",
@@ -3501,7 +3502,7 @@
         "name": "Zancadas con bandas elásticas",
         "initialPosition": "Coloca la banda elástica debajo de tus pies y sujeta los extremos con las manos. Da un paso hacia atrás con una pierna y flexiona ambas rodillas.",
         "execution": "Baja el cuerpo hacia abajo hasta que la rodilla trasera casi toque el suelo, manteniendo la espalda recta. Luego, regresa a la posición inicial.",
-        "advice": "Mantén el abdomen contraído y el pecho levantado durante todo el movimiento.",
+        "advice": "Mantén el abdomen contraído y el Pectorales levantado durante todo el movimiento.",
         "involvedMuscles": [
             "Cuádriceps",
             "Glúteos"
@@ -3567,6 +3568,127 @@
             "Hombros",
             "Trapecio",
             "Dorsal ancho"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de brazos cruzados",
+        "initialPosition": "Párate derecho y cruza el brazo derecho sobre el Pectorales. Usa el brazo izquierdo para presionar suavemente el codo derecho hacia el Pectorales.",
+        "execution": "Mantén la posición durante 15-30 segundos y luego cambia de lado.",
+        "advice": "Mantén los hombros relajados y la respiración constante durante el estiramiento.",
+        "involvedMuscles": [
+            "Deltoides",
+            "Pectoral mayor"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de tríceps",
+        "initialPosition": "Levanta el brazo derecho sobre la cabeza y dobla el codo, llevando la mano derecha hacia el centro de la espalda.",
+        "execution": "Con la mano izquierda, sujeta el codo derecho y aplica una suave presión hacia abajo.",
+        "advice": "Mantén la columna recta y la respiración regular durante el estiramiento.",
+        "involvedMuscles": [
+            "Tríceps"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de hombros",
+        "initialPosition": "Párate derecho y coloca el brazo derecho sobre el Pectorales, doblando el codo.",
+        "execution": "Usa la mano izquierda para agarrar el codo derecho y suavemente presionar hacia el Pectorales.",
+        "advice": "Mantén los hombros relajados y la respiración constante durante el estiramiento.",
+        "involvedMuscles": [
+            "Deltoides"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de cuello",
+        "initialPosition": "Párate derecho con los hombros relajados.",
+        "execution": "Inclina lentamente la cabeza hacia un lado, llevando la oreja hacia el hombro, y mantén la posición durante 15-30 segundos. Repite en el otro lado.",
+        "advice": "Evita girar la cabeza o forzar el estiramiento en exceso.",
+        "involvedMuscles": [
+            "Músculos del cuello"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de Pectorales",
+        "initialPosition": "Párate o siéntate con la columna recta.",
+        "execution": "Entrelaza los dedos detrás de la espalda y estira los brazos, levantando el Pectorales y abriendo los hombros.",
+        "advice": "Evita encorvar la espalda y mantener la respiración regular durante el estiramiento.",
+        "involvedMuscles": [
+            "Pectoral mayor"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de espalda baja",
+        "initialPosition": "Acuéstate boca arriba en el suelo con las piernas estiradas.",
+        "execution": "Dobla una rodilla hacia el Pectorales y sostén la pierna con ambas manos.",
+        "advice": "Mantén la otra pierna estirada en el suelo y relaja los hombros y la cabeza.",
+        "involvedMuscles": [
+            "Espalda baja"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de cuádriceps",
+        "initialPosition": "Párate derecho y sujeta el pie derecho con la mano derecha.",
+        "execution": "Lleva el talón hacia los glúteos, manteniendo la rodilla apuntando hacia abajo.",
+        "advice": "Mantén el equilibrio sosteniéndote en una pared o una silla si es necesario.",
+        "involvedMuscles": [
+            "Cuádriceps"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de isquiotibiales",
+        "initialPosition": "Siéntate en el suelo con una pierna estirada y la otra doblada hacia el Pectorales.",
+        "execution": "Inclínate hacia adelante desde la cadera, manteniendo la espalda recta, hasta sentir el estiramiento en la parte posterior del muslo.",
+        "advice": "Mantén los hombros relajados y la respiración constante durante el estiramiento.",
+        "involvedMuscles": [
+            "Isquiotibiales"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de pantorrillas",
+        "initialPosition": "Párate derecho frente a una pared con las manos apoyadas en ella.",
+        "execution": "Da un paso atrás con un pie y flexiona la pierna delantera, manteniendo la pierna trasera estirada y el talón en el suelo.",
+        "advice": "Mantén la espalda recta y el pie trasero apuntando hacia adelante.",
+        "involvedMuscles": [
+            "Pantorrillas"
+        ],
+        "involvedMusclesImg": "url de la imagen",
+        "img": "url de la imagen",
+        "video": "url del video"
+    },
+    {
+        "name": "Estiramiento de glúteos",
+        "initialPosition": "Acuéstate boca arriba en el suelo con las rodillas dobladas y los pies apoyados en el suelo.",
+        "execution": "Cruza el tobillo derecho sobre la rodilla izquierda y lleva la pierna izquierda hacia el Pectorales.",
+        "advice": "Mantén los hombros y la cabeza en el suelo mientras sientes el estiramiento en el glúteo derecho.",
+        "involvedMuscles": [
+            "Glúteos"
         ],
         "involvedMusclesImg": "url de la imagen",
         "img": "url de la imagen",

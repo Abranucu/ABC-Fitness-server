@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Elevación de rodillas sentado (Pull-In)",
+        "initialPosition": "Siéntate en una máquina para elevación de rodillas con la espalda bien apoyada y las manos en los agarres laterales.",
+        "execution": "Levanta las rodillas hacia el Pectorales flexionando las caderas, mantén una breve pausa en la posición contraída y luego baja las piernas controladamente.",
+        "advice": "Mantén la parte superior del cuerpo inmóvil y evita balancear el torso durante el movimiento.",
+        "involvedMuscles": [
+            "Abdominales",
+            "Cadera"
+        ],
+        "involvedMusclesImg": "https://www.entrenamientos.com/media/cache/exercise_375/uploads/exercise/elevacion-de-piernas-estiradas-colgado-en-barra-muscle-7259%20.png",
+        "img": "https://th.bing.com/th/id/R.9fbcf417b8b24e9618f79ab6ad92895a?rik=qhTTbOL6zULv%2bg&riu=http%3a%2f%2ffitness-guia.es%2fwp-content%2fuploads%2f2017%2f09%2felevaciones-de-rodillas.jpg&ehk=gbhKO8EXBRdCcmrYJQxEd6gA8ExCdSFofCCAUiU9Jj4%3d&risl=&pid=ImgRaw&r=0",
+        "video": "https://www.youtube.com/watch?v=QwS2ewfa6ls"
+    },
+    {
+        "name": "Elevaciones de piernas colgado",
+        "initialPosition": "Agárrate a una barra elevada con las manos separadas al ancho de los hombros y el cuerpo colgando.",
+        "execution": "Levanta las piernas extendidas hacia arriba, manteniendo las piernas juntas y rectas, luego baja las piernas controladamente.",
+        "advice": "Mantén el torso estable y evita balancear el cuerpo durante el movimiento.",
+        "involvedMuscles": [
+            "Abdominales",
+            "Cadera"
+        ],
+        "involvedMusclesImg": "https://www.entrenamientos.com/media/cache/exercise_375/uploads/exercise/elevacion-de-piernas-estiradas-colgado-en-barra-muscle-7259%20.png",
+        "img": "https://th.bing.com/th/id/R.ecc4f79262a1fdba901c8e7ec1041fb3?rik=UdKPoMooHi3xsw&pid=ImgRaw&r=0",
+        "video": "https://youtu.be/fjt82GcHQu8"
+    },
+    {
+        "name": "Elevaciones de piernas en banco plano",
+        "initialPosition": "Acuéstate boca arriba en un banco plano con las manos agarradas a los lados del banco para mayor estabilidad.",
+        "execution": "Levanta las piernas extendidas hacia arriba, manteniendo las piernas juntas y rectas, luego baja las piernas controladamente.",
+        "advice": "Mantén la parte baja de la espalda pegada al banco y evita arquear la espalda durante el movimiento.",
+        "involvedMuscles": [
+            "Abdominales",
+            "Cadera"
+        ],
+        "involvedMusclesImg": "https://www.entrenamientos.com/media/cache/exercise_375/uploads/exercise/elevacion-de-piernas-estiradas-colgado-en-barra-muscle-7259%20.png",
+        "img": "https://www.entrenamientos.com/media/cache/exercise_375/uploads/exercise/elevacion-de-piernas-en-banco-inclinado-init-pos-3654.png",
+        "video": "https://youtu.be/kU112GaHeCk"
+    },
+    {
+        "name": "Elevaciones de piernas en paralelas (Silla del capitán)",
+        "initialPosition": "Colócate en una silla del capitán con los codos apoyados en los cojines y las manos agarrando las asas.",
+        "execution": "Levanta las piernas extendidas hacia arriba, manteniendo las piernas juntas y rectas, luego baja las piernas controladamente.",
+        "advice": "Mantén el torso estable y evita balancear el cuerpo durante el movimiento.",
+        "involvedMuscles": [
+            "Abdominales",
+            "Cadera"
+        ],
+        "involvedMusclesImg": "https://www.entrenamientos.com/media/cache/exercise_375/uploads/exercise/elevacion-de-piernas-estiradas-colgado-en-barra-muscle-7259%20.png",
+        "img": "https://th.bing.com/th/id/OIP.KjR5c6DnsYGepYZqHIY0ZwAAAA?rs=1&pid=ImgDetMain",
+        "video": "https://www.youtube.com/watch?v=Zcpv1eJ3E1A&pp=ygUkc2lsbGEgZGVsIGNhcGl0YW4gZWplcmNpY2lvIGdpbW5hc2lv"
+    }
+]

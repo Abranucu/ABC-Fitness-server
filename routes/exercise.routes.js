@@ -7,7 +7,7 @@ const {
   isUserAdmin,
 } = require("../middlewares/auth.middlewares");
 
-// GET "/api/exercises" => listar todos los ejercicios de la DB
+// GET "/api/exercises" => Lista todos los ejercicios de la DB
 router.get("/", isTokenValid, async (req, res, next) => {
   try {
     const allExercises = await Exercise.find();
@@ -17,13 +17,13 @@ router.get("/", isTokenValid, async (req, res, next) => {
   }
 });
 
-// GET "/api/exercises/:exerciseId" => listar un ejercicio de la DB por su id
+// GET "/api/exercises/:exerciseId" => Lista un ejercicio de la DB por su id
 router.get("/:exerciseId", isTokenValid, async (req, res, next) => {
   const { exerciseId } = req.params;
   try {
     const exercise = await Exercise.findById(exerciseId);
     if (!exercise) {
-      return res.status(404).json({ message: "Ejercicio no encontrado" });
+      return res.status(404).json({ message: "Ejercicio no encontrado." });
     }
     res.status(200).json(exercise);
   } catch (err) {
@@ -31,7 +31,7 @@ router.get("/:exerciseId", isTokenValid, async (req, res, next) => {
   }
 });
 
-// POST "/api/exercises" => crear un nuevo ejercicio en la DB
+// POST "/api/exercises" => Crea un nuevo ejercicio en la DB
 router.post("/", isTokenValid, isUserAdmin, async (req, res, next) => {
   const {
     name,
@@ -70,7 +70,7 @@ router.post("/", isTokenValid, isUserAdmin, async (req, res, next) => {
   }
 });
 
-// PUT "/api/exercises/:exerciseId" => editar un ejercicio de la DB por su id
+// PUT "/api/exercises/:exerciseId" => Edita un ejercicio de la DB por su id
 router.put(
   "/:exerciseId",
   isTokenValid,
@@ -84,7 +84,7 @@ router.put(
         { new: true }
       );
       if (!updatedExercise) {
-        return res.status(404).json({ message: "Ejercicio no encontrado" });
+        return res.status(404).json({ message: "Ejercicio no encontrado." });
       }
       res.status(200).json(updatedExercise);
     } catch (err) {
@@ -93,7 +93,7 @@ router.put(
   }
 );
 
-// DELETE "/api/exercises/:exerciseId" => eliminar un ejercicio de la DB por su id
+// DELETE "/api/exercises/:exerciseId" => Elimina un ejercicio de la DB por su id
 router.delete(
   "/:exerciseId",
   isTokenValid,
@@ -103,9 +103,9 @@ router.delete(
     try {
       const exercise = await Exercise.findByIdAndDelete(exerciseId);
       if (!exercise) {
-        return res.status(404).json({ message: "Ejercicio no encontrado" });
+        return res.status(404).json({ message: "Ejercicio no encontrado." });
       }
-      res.status(204).json({ message: "Ejercicio eliminado correctamente" });
+      res.status(204).json({ message: "Ejercicio eliminado correctamente." });
     } catch (err) {
       next(err);
     }
