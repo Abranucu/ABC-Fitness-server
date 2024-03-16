@@ -3,8 +3,10 @@ const router = require("express").Router();
 const MyExercise = require("../models/MyExercise.model");
 const Exercise = require("../models/Exercise.model");
 
+const { isTokenValid } = require("../middlewares/auth.middlewares");
+
 // POST "/api/routines/:routineId/exercises" => Crea un nuevo ejercicio en una rutina específica.
-router.post("/", async (req, res, next) => {
+router.post("/", isTokenValid, async (req, res, next) => {
   const { routineId } = req.params;
   const { exercise, sets, repetitions, weight, rest } = req.body;
   const userId = req.payload._id;
@@ -42,7 +44,7 @@ router.post("/", async (req, res, next) => {
 });
 
 // PATCH "/api/routines/:routineId/exercises/:exerciseId" => Edita un ejercicio específico en una rutina específica.
-router.patch("/:exerciseId", async (req, res, next) => {
+router.patch("/:exerciseId", isTokenValid, async (req, res, next) => {
   const { exerciseId } = req.params;
   const { sets, repetitions, weight, rest } = req.body;
 
@@ -70,7 +72,7 @@ router.patch("/:exerciseId", async (req, res, next) => {
 });
 
 // DELETE "/api/routines/:routineId/exercises/:exerciseId" =>  Elimina un ejercicio específico de una rutina específica.
-router.delete("/:exerciseId", async (req, res, next) => {
+router.delete("/:exerciseId", isTokenValid, async (req, res, next) => {
   const { exerciseId } = req.params;
   try {
     const myExercise = await MyExercise.findByIdAndDelete(exerciseId);

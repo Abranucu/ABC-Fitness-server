@@ -4,6 +4,8 @@ const jwt = require("jsonwebtoken");
 
 const User = require("../models/User.model");
 
+const { isTokenValid } = require("../middlewares/auth.middlewares");
+
 // POST "/api/auth/signup" => Recibe los datos del usuario y crear un documento en la DB
 router.post("/signup", async (req, res, next) => {
   const {
@@ -136,6 +138,12 @@ router.post("/login", async (req, res, next) => {
   } catch (err) {
     next(err);
   }
+});
+
+// GET "/api/auth/verify" => Valida el TOKEN e indica al cliente que el usuario esta autenticado
+router.get("/verify", isTokenValid, (req, res, next) => {
+  // Envía el payload al cliente
+  res.json(req.payload);
 });
 
 module.exports = router;
