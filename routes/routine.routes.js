@@ -26,7 +26,9 @@ router.get("/:routineId", isTokenValid, async (req, res, next) => {
     }
 
     // Busca los ejercicios relacionados con la rutina
-    const exercises = await MyExercise.find({ routine: routineId });
+    const exercises = await MyExercise.find({ routine: routineId }).populate(
+      "exercise"
+    );
     res.status(200).json({ routine, exercises });
   } catch (err) {
     next(err);
