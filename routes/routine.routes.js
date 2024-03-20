@@ -15,6 +15,17 @@ router.get("/", isTokenValid, async (req, res, next) => {
   }
 });
 
+// GET "/api/routines/user/:userId" => Lista todas las rutinas de un usuario específico
+router.get("/user/:userId", isTokenValid, async (req, res, next) => {
+  const { userId } = req.params;
+  try {
+    const allUserRoutines = await Routine.find({ user: userId });
+    res.status(200).json(allUserRoutines);
+  } catch (err) {
+    next(err);
+  }
+});
+
 // GET "/api/routines/:routineId" => Lista una rutina de la DB por su id
 router.get("/:routineId", isTokenValid, async (req, res, next) => {
   const { routineId } = req.params;
