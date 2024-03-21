@@ -13,6 +13,9 @@ const profileRouter = require("./profile.routes");
 router.use("/profile", profileRouter);
 
 const myExerciseRouter = require("./myExercise.routes");
-router.use("/routines/:routineId/exercises", myExerciseRouter);
+router.use("/routines", myExerciseRouter);
+
+const uploadRoutes = require("./upload.routes");
+router.use("/upload", uploadRoutes);
 
 module.exports = router;

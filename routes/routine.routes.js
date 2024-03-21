@@ -60,19 +60,19 @@ router.post("/", isTokenValid, async (req, res, next) => {
 
   try {
     // Crear el ejercicio en la DB
-    await Routine.create({
+    const newRoutine = await Routine.create({
       name,
       description,
       user: userId,
     });
-    res.sendStatus(201);
+    res.status(201).json(newRoutine);
   } catch (err) {
     next(err);
   }
 });
 
-// PATCH "/api/routines/:routineId" => Edita una rutina de la DB por su id
-router.patch("/:routineId", isTokenValid, async (req, res, next) => {
+// PUT "/api/routines/:routineId" => Edita una rutina de la DB por su id
+router.put("/:routineId", isTokenValid, async (req, res, next) => {
   const { routineId } = req.params;
   const { name, description } = req.body;
 
@@ -97,11 +97,15 @@ router.patch("/:routineId", isTokenValid, async (req, res, next) => {
 router.delete("/:routineId", isTokenValid, async (req, res, next) => {
   const { routineId } = req.params;
   try {
+    // Busca y elimina la rutina
     const routine = await Routine.findByIdAndDelete(routineId);
     if (!routine) {
       return res.status(404).json({ message: "Rutina no encontrada." });
     }
-    res.status(204).json({ message: "Rutina eliminada correctamente." });
+    await MyExercise.deleteMany({ routine: routineId });
+    res.status(204).json({
+      message: "Rutina y sus ejercicios asociados eliminados correctamente.",
+    });
   } catch (err) {
     next(err);
   }

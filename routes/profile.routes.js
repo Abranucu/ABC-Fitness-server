@@ -160,12 +160,12 @@ router.patch("/email", isTokenValid, async (req, res, next) => {
   }
 });
 
-// PATCH "/api/profile/profile-pic" => Actualiza la imagen de perfil del usuario que está conectado
+// PATCH "/api/profile/profile-pic" => Actualiza el profilePic del usuario que está conectado
 router.patch("/profile-pic", isTokenValid, async (req, res, next) => {
   const userId = req.payload._id;
-  const { profilePic, password } = req.body;
+  const { profilePic } = req.body;
   // Comprobar que todos los campos obligatorios están llenos
-  if (!profilePic || !password) {
+  if (!profilePic) {
     return res
       .status(400)
       .json({ message: "Por favor, complete todos los campos obligatorios." });
@@ -177,15 +177,7 @@ router.patch("/profile-pic", isTokenValid, async (req, res, next) => {
       return res.status(404).json({ message: "Usuario no encontrado." });
     }
 
-    // Verificar si la contraseña actual es correcta
-    const isPasswordCorrect = await bcrypt.compare(password, user.password);
-    if (!isPasswordCorrect) {
-      return res
-        .status(400)
-        .json({ message: "La contraseña actual proporcionada es incorrecta." });
-    }
-
-    // Actualizar foto de perfil del usuario
+    // profilePic email del usuario
     user.profilePic = profilePic;
     await user.save();
 
