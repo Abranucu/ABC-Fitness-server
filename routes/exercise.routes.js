@@ -18,7 +18,8 @@ router.get("/", isTokenValid, async (req, res, next) => {
 });
 
 // GET "/api/exercises/:exerciseId" => Lista un ejercicio de la DB por su id
-router.get("/:exerciseId", isTokenValid, async (req, res, next) => {
+router.get("/:exerciseId", async (req, res, next) => {
+  console.log("¨patata");
   const { exerciseId } = req.params;
   try {
     const exercise = await Exercise.findById(exerciseId);
